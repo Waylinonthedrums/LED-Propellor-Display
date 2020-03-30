@@ -16,5 +16,5 @@ Portable Box Fan
 
 https://github.com/ARMmbed/mbed-os
 
-https://www.youtube.com/watch?v=20LS5XT1oa8
+https://youtu.be/20LS5XT1oa8
 
