@@ -8,3 +8,5 @@ Tegg KY-003 Hall Effect Magnetic Sensor Module
 8 LEDs
 
 USB TYPE MINI-B power supply
+
+Portable Box Fan
